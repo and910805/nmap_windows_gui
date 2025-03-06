@@ -2,6 +2,7 @@
 
 GUI 預覽截圖
 ![image](https://github.com/user-attachments/assets/a557e093-9332-46ed-9cc8-9dfc5ff45adb)
+![image](https://github.com/user-attachments/assets/9840c757-192c-4d15-89fc-bb662aed9798)
 
 一個基於 Python 與 Nmap 的圖形化端口掃描工具，支援自定義指令、實時日誌和專業報告生成。
 
@@ -35,7 +36,8 @@ git clone https://github.com/yourusername/your-repo.git
 ```
 
 # 下載 Nmap (Windows 範例)
-壓縮檔案裡面有
+(Nmap 下載連結)[https://nmap.org/download.html#windows]
+
 
 # 運行程式
 安裝完可以直接開exe
